@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://docs.scylla.events.com/</loc>
+  <lastmod>2025-06-23T22:56:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/about.html</loc>
+  <lastmod>2025-06-23T22:55:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/privacy.html</loc>
+  <lastmod>2025-06-23T22:56:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/terms.html</loc>
+  <lastmod>2025-06-23T22:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/contact.html</loc>
+  <lastmod>2025-06-23T22:56:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/3-budget-friendly-upgrades-to-breathe-new-life-into-old-decor.html</loc>
+  <lastmod>2025-06-23T22:54:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/4-brilliant-lighting-tricks-to-banish-dimness-and-brighten-your-mood.html</loc>
+  <lastmod>2025-06-23T22:54:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/bust-through-5-common-layout-mistakes-for-a-flowing-space.html</loc>
+  <lastmod>2025-06-23T22:55:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/3-genius-storage-hacks-for-every-room-in-your-home.html</loc>
+  <lastmod>2025-06-23T22:54:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/5-clever-space-saving-solutions-for-maximizing-tiny-kitchen-efficiency.html</loc>
+  <lastmod>2025-06-23T22:55:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.scylla.events.com/index.html</loc>
+  <lastmod>2025-06-23T22:56:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
